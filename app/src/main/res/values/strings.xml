@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="quoute">\“When they say you can\'t, they show you their limits, not yours.\” – Kevin Keenoo</string>
+    <string name="welcome">Welcome to the quiz %1$s!</string>
+    <string name="entr">Entrepreneurship is a process of creating, lunching and running a new business.It is great to see You interested in this topic. There are 7 questions waiting for You %1$s, each aims to test some of the misconceptions about entrepreneurship. \n\nI hope they will inspire You to learn more. \nGood luck %1$s!</string>
+
+    <string name="chBox1">1. Entrepreneurs can be characterised as:</string>
+    <string name="chBox1A">The smartest people in the room</string>
+    <string name="chBox1B">Team players</string>
+    <string name="chBox1C">Individualists</string>
+    <string name="chBox1D">The ones with grand vision</string>
+
+    <string name="chBox2">2. Entrepreneurship is about:</string>
+    <string name="chBox2A">Minimizing risk or taking calculated risk</string>
+    <string name="chBox2B">Taking risk or gambling</string>
+    <string name="chBox2C">Solving customer problems</string>
+    <string name="chBox2D">Getting stupendously rich</string>
+
+    <string name="chBox3">3. What are the best ways to start a new venture:</string>
+    <string name="chBox3A">Having great idea</string>
+    <string name="chBox3B">Having a passion</string>
+    <string name="chBox3C">Come up with technological breakthrough</string>
+    <string name="chBox3D">Having a paying customer</string>
+
+    <string name="chBox4">4. Entrepreneurs have to have:</string>
+    <string name="chBox4A">Spirit of a pirate </string>
+    <string name="chBox4B">Execution of a navy seal </string>
+    <string name="chBox4C">Athletic body</string>
+    <string name="chBox4D">The highest intelligence</string>
+
+    <string name="radi1">5. The more people on the founding team:</string>
+    <string name="radi1A">The better</string>
+    <string name="radi1B">No difference</string>
+    <string name="radi1C">The worse</string>
+
+    <string name="radi2">6. Entrepreneurs are mostly</string>
+    <string name="radi2A">Born</string>
+    <string name="radi2B">Made</string>
+
+    <string name="radi3">7. Idea is:</string>
+    <string name="radi3A">The most important thing needed to succeed</string>
+    <string name="radi3B">Just the peak of the ice berg</string>
+
+
+    <string name="scoreText">%1$s, Your score is: </string>
+
+</resources>

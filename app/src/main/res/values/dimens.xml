@@ -1,0 +1,14 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="headlineText">24sp</dimen>    <dimen name="textBar">20sp</dimen>
+    <dimen name="subheadingText">16sp</dimen>
+    <dimen name="bodyText">14sp</dimen>
+    <dimen name="paddingQuote">24dp</dimen>
+    <dimen name="padding">16dp</dimen>
+    <dimen name="barMargin">3dp</dimen>
+    <dimen name="marginTextNormal">16dp</dimen>
+    <dimen name="textMargin">16dp</dimen>
+    <dimen name="buttonMarginText">16dp</dimen>
+    <dimen name="buttonMarginQuestion">8dp</dimen>
+</resources>
